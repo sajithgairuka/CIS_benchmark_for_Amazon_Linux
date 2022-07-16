@@ -21,3 +21,7 @@ CPE_NAME="cpe:2.3:o:amazon:amazon_linux:2"
 HOME_URL="https://amazonlinux.com/"
 
 Amazon Linux release 2 (Karoo)
+
+# OpenSCAP Testing Guide for Local and Remote Locations
+
+Guide : [Openscap CIS Benchmark Testing](https://github.com/sajithgairuka/CIS_benchmark_for_Amazon_Linux/blob/main/Openscap%20CIS%20Benchmark%20Testing.docx?raw=true)
