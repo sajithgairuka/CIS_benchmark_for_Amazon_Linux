@@ -24,5 +24,10 @@ Amazon Linux release 2 (Karoo)
 
 # OpenSCAP Testing Guide for Local and Remote Locations
 
+## Diagram
+
+![openscap-ssh Server](https://user-images.githubusercontent.com/104394666/179661155-e4f56c63-0d27-471a-a10a-96a7e96901a2.png)
+
+
 Guide : [Openscap CIS Benchmark Testing](https://github.com/sajithgairuka/CIS_benchmark_for_Amazon_Linux/files/9126912/Openscap.CIS.Benchmark.Testing.pdf)
 
